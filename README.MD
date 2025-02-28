@@ -2,8 +2,10 @@
 
 ## 📝 About me
 - Third year Computer Science student at Silesian University of Technology, Faculty of Applied Mathematics
-- Mostly intrested in native/crossplatform mobile app development and C#
-- Other skills include: basic knowladge of Python with applications in Machine Learning, Gamedev
+- Mostly interested in native/cross-platform mobile app development and C#
+- Other skills include basic knowledge of Python with applications in machine learning, gamedev, assembly and maintenance computer hardware, administration of computer systems/networks
+
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,dotnet,css,git,github,githubactions,godot,html,java,kotlin,latex,md,mysql,py,sqlite,sklearn,tensorflow,visualstudio,wordpress,)](https://skillicons.dev)
 
 ## 📊 Github stats 
 <div style="display:flex;flex-direction:row;justify-content:center;">
