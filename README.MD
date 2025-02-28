@@ -5,7 +5,7 @@
 - Mostly interested in native/cross-platform mobile app development and C#
 - Other skills include basic knowledge of Python with applications in machine learning, gamedev, assembly and maintenance computer hardware, administration of computer systems/networks
 
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,dotnet,css,git,github,githubactions,godot,html,java,kotlin,latex,md,mysql,py,sqlite,sklearn,tensorflow,visualstudio,wordpress,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,cs,dotnet,visualstudio,py,sklearn,tensorflow, godot,html,css,wordpress,cpp,java,mysql,sqlite,git,github,githubactions,latex,md](https://skillicons.dev)
 
 ## 📊 Github stats 
 <div style="display:flex;flex-direction:row;justify-content:center;">
