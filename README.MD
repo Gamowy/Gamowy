@@ -8,7 +8,7 @@
 [![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,cs,dotnet,visualstudio,py,pycharm,sklearn,tensorflow,godot,html,css,wordpress,cpp,java,mysql,sqlite,git,github,githubactions,latex,md,)](https://skillicons.dev)
 
 ## 📊 Github stats 
-<div style="display:flex;flex-direction:row;justify-content:center;">
-    <img height="160"  src="https://github-readme-stats.vercel.app/api?username=Gamowy&show_icons=true&theme=dark&include_all_commits=true" style="margin: 0" />
-  <img height="160"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gamowy&theme=dark&size_weight=0.4&count_weight=1&hide=jupyter%20notebook,CMake&layout=compact" style="margin: 0" /> 
+<div align="center">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Gamowy&show_icons=true&theme=dark&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gamowy&theme=dark&size_weight=0.4&count_weight=1&hide=jupyter%20notebook,CMake&layout=compact" /> 
 </div>
