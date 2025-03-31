@@ -1,7 +1,7 @@
 # Hi :) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## 📝 About me
-- Third year Computer Science student at Silesian University of Technology, Faculty of Applied Mathematics
+- Third-year Computer Science student at Silesian University of Technology, Faculty of Applied Mathematics
 - Mostly interested in native/cross-platform mobile app development and C#
 - Other skills include basic knowledge of Python with applications in machine learning, gamedev, assembly and maintenance of computer hardware, administration of computer systems/networks
 
